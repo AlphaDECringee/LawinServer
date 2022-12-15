@@ -1,0 +1,23 @@
+[
+  {
+    "accountId": "Auties00",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-11T18:03:09.727Z",
+    "favorite": false
+  },
+  {
+    "accountId": "abc",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-16T10:43:27.202Z",
+    "favorite": false
+  },
+  {
+    "accountId": "AlphaHost",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-11-26T06:10:27.150Z",
+    "favorite": false
+  }
+]
