@@ -2,7 +2,7 @@
   "_id": "LawinServer",
   "created": "0001-01-01T00:00:00.000Z",
   "updated": "0001-01-01T00:00:00.000Z",
-  "rvn": 0,
+  "rvn": 10,
   "wipeNumber": 1,
   "accountId": "LawinServer",
   "profileId": "campaign",
@@ -210,8 +210,8 @@
           }
         },
         "use_count": 0,
-        "banner_icon_template": "SurvivalBannerStonewoodComplete",
-        "banner_color_template": "DefaultColor15",
+        "banner_icon_template": "OT11Banner",
+        "banner_color_template": "DefaultColor1",
         "locker_name": "LawinServer",
         "item_seen": false,
         "favorite": false
@@ -1823,7 +1823,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 968395829
+      "quantity": 1000000000
     },
     "cb0ba21a-0534-417d-b487-e0ac4ec2f484": {
       "templateId": "Quest:stonewoodquest_tutorial_levelup_hero",
@@ -2489,11 +2489,11 @@
         "xp_reward_scalar": 1,
         "challenge_linked_quest_given": "",
         "quest_pool": "",
-        "quest_state": "Active",
+        "quest_state": "Claimed",
         "last_state_change_time": "2020-01-25T18:55:36.618Z",
         "challenge_linked_quest_parent": "",
         "max_level_bonus": 0,
-        "completion_hbonboarding_namehomebase": 0,
+        "completion_hbonboarding_namehomebase": 1,
         "completion_hbonboarding_watchsatellitecine": 1,
         "xp": 0,
         "favorite": false
@@ -2850,7 +2850,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 9579248
+      "quantity": 1000000000
     },
     "xp-boost": {
       "templateId": "Token:xpboost",
@@ -5677,7 +5677,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 459283945
+      "quantity": 1000000000
     },
     "d0298d94-68c1-4e4d-b7d4-e0d9caa9b945": {
       "templateId": "Quest:challenge_holdthedoor_16",
@@ -6621,7 +6621,7 @@
         "level": -1,
         "item_seen": false,
         "completion_questcomplete_outpostquest_t1_l1": 1,
-        "sent_new_notification": false,
+        "sent_new_notification": true,
         "challenge_bundle_id": "",
         "xp_reward_scalar": 1,
         "challenge_linked_quest_given": "",
@@ -7275,7 +7275,7 @@
         "xp": 0,
         "favorite": false
       },
-      "quantity": 8339478
+      "quantity": 1000000000
     },
     "fe8032de-98da-4011-800a-db4ba851db85": {
       "templateId": "Quest:challenge_eldritchabominations_19",
@@ -13602,6 +13602,50 @@
       },
       "quantity": 1
     },
+    "Hero:HID_Commando_046_ForestQueen_SR_T05": {
+      "templateId": "Hero:HID_Commando_046_ForestQueen_SR_T05",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Hero:HID_Commando_046_ForestQueen_VR_T05": {
+      "templateId": "Hero:HID_Commando_046_ForestQueen_VR_T05",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
     "Hero:HID_Commando_030_RetroSciFiSoldier_SR_T05": {
       "templateId": "Hero:HID_Commando_030_RetroSciFiSoldier_SR_T05",
       "attributes": {
@@ -13644,11 +13688,11 @@
         "gender": 0,
         "level": 50,
         "item_seen": true,
-        "squad_slot_idx": 0,
+        "squad_slot_idx": -1,
         "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
-        "squad_id": "Squad_Combat_AdventureSquadOne",
+        "squad_id": "",
         "mode_loadouts": [],
         "xp": 0,
         "slotted_building_id": "",
@@ -14586,11 +14630,11 @@
         "gender": 0,
         "level": 50,
         "item_seen": true,
-        "squad_slot_idx": -1,
+        "squad_slot_idx": 0,
         "portrait": "",
         "hero_name": "DefaultHeroName",
         "max_level_bonus": 0,
-        "squad_id": "",
+        "squad_id": "Squad_Combat_AdventureSquadOne",
         "mode_loadouts": [],
         "xp": 0,
         "slotted_building_id": "",
@@ -16955,6 +16999,28 @@
     },
     "Hero:HID_Constructor_040_Lars_SR_T05": {
       "templateId": "Hero:HID_Constructor_040_Lars_SR_T05",
+      "attributes": {
+        "outfitvariants": [],
+        "backblingvariants": [],
+        "gender": 0,
+        "level": 50,
+        "item_seen": true,
+        "squad_slot_idx": -1,
+        "portrait": "",
+        "hero_name": "DefaultHeroName",
+        "max_level_bonus": 0,
+        "squad_id": "",
+        "mode_loadouts": [],
+        "xp": 0,
+        "slotted_building_id": "",
+        "refundable": false,
+        "building_slot_used": -1,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Hero:HID_Constructor_41_Alien_Agent_SR_T05": {
+      "templateId": "Hero:HID_Constructor_41_Alien_Agent_SR_T05",
       "attributes": {
         "outfitvariants": [],
         "backblingvariants": [],
@@ -43490,7 +43556,7 @@
       "attributes": {
         "legacy_alterations": [],
         "max_level_bonus": 0,
-        "level": 50,
+        "level": 60,
         "refund_legacy_item": false,
         "item_seen": true,
         "alterations": [
@@ -43855,6 +43921,328 @@
     },
     "Schematic:SID_Assault_ArtDeco_SR_Crystal_T05": {
       "templateId": "Schematic:SID_Assault_ArtDeco_SR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_Invasion_PulseRifle_VR_Ore_T05": {
+      "templateId": "Schematic:SID_Assault_Invasion_PulseRifle_VR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_Invasion_PulseRifle_VR_Crystal_T05": {
+      "templateId": "Schematic:SID_Assault_Invasion_PulseRifle_VR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_Invasion_PulseRifle_SR_Ore_T05": {
+      "templateId": "Schematic:SID_Assault_Invasion_PulseRifle_SR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_Invasion_PulseRifle_SR_Crystal_T05": {
+      "templateId": "Schematic:SID_Assault_Invasion_PulseRifle_SR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Explosive_Invasion_PlasmaCannon_VR_Ore_T05": {
+      "templateId": "Schematic:SID_Explosive_Invasion_PlasmaCannon_VR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Explosive_Invasion_PlasmaCannon_SR_Ore_T05": {
+      "templateId": "Schematic:SID_Explosive_Invasion_PlasmaCannon_SR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_SMG_Invasion_Raygun_VR_Ore_T05": {
+      "templateId": "Schematic:SID_Assault_SMG_Invasion_Raygun_VR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_SMG_Invasion_Raygun_VR_Crystal_T05": {
+      "templateId": "Schematic:SID_Assault_SMG_Invasion_Raygun_VR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_SMG_Invasion_Raygun_SR_Ore_T05": {
+      "templateId": "Schematic:SID_Assault_SMG_Invasion_Raygun_SR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Assault_SMG_Invasion_Raygun_SR_Crystal_T05": {
+      "templateId": "Schematic:SID_Assault_SMG_Invasion_Raygun_SR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Sniper_Invasion_RailGun_VR_Ore_T05": {
+      "templateId": "Schematic:SID_Sniper_Invasion_RailGun_VR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Sniper_Invasion_RailGun_VR_Crystal_T05": {
+      "templateId": "Schematic:SID_Sniper_Invasion_RailGun_VR_Crystal_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Sniper_Invasion_RailGun_SR_Ore_T05": {
+      "templateId": "Schematic:SID_Sniper_Invasion_RailGun_SR_Ore_T05",
+      "attributes": {
+        "legacy_alterations": [],
+        "max_level_bonus": 0,
+        "level": 50,
+        "refund_legacy_item": false,
+        "item_seen": true,
+        "alterations": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "xp": 0,
+        "refundable": false,
+        "alteration_base_rarities": [],
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Schematic:SID_Sniper_Invasion_RailGun_SR_Crystal_T05": {
+      "templateId": "Schematic:SID_Sniper_Invasion_RailGun_SR_Crystal_T05",
       "attributes": {
         "legacy_alterations": [],
         "max_level_bonus": 0,
@@ -62899,6 +63287,30 @@
         "completion_interact_treasurechest_pve01_diff2": 1
       },
       "quantity": 1
+    },
+    "8226994d-0f11-4d08-a5cf-2f5f8c7b7c28": {
+      "templateId": "Quest:Daily_Mission_Specialist_Constructor",
+      "attributes": {
+        "creation_time": "2023-10-07T14:36:54.650Z",
+        "level": -1,
+        "item_seen": false,
+        "playlists": [],
+        "sent_new_notification": true,
+        "challenge_bundle_id": "",
+        "xp_reward_scalar": 1,
+        "challenge_linked_quest_given": "",
+        "quest_pool": "",
+        "quest_state": "Active",
+        "bucket": "",
+        "last_state_change_time": "2023-10-07T14:36:54.650Z",
+        "challenge_linked_quest_parent": "",
+        "max_level_bonus": 0,
+        "xp": 0,
+        "quest_rarity": "uncommon",
+        "favorite": false,
+        "completion_complete_constructor": 0
+      },
+      "quantity": 1
     }
   },
   "stats": {
@@ -63002,7 +63414,7 @@
       },
       "mfa_reward_claimed": true,
       "quest_manager": {
-        "dailyLoginInterval": "2020-02-05T19:05:26.904Z",
+        "dailyLoginInterval": "2023-10-07T14:36:54.650Z",
         "dailyQuestRerolls": 1,
         "questPoolStats": {
           "poolStats": [
@@ -63147,12 +63559,12 @@
       "xp_lost": 0,
       "mode_loadouts": [],
       "daily_rewards": {
-        "nextDefaultReward": 0,
-        "totalDaysLoggedIn": 0,
-        "lastClaimDate": "0001-01-01T00:00:00.000Z",
+        "nextDefaultReward": 1,
+        "totalDaysLoggedIn": 1,
+        "lastClaimDate": "2023-10-07T00:00:00.000Z",
         "additionalSchedules": {
           "founderspackdailyrewardtoken": {
-            "rewardsClaimed": 0,
+            "rewardsClaimed": 1,
             "claimedToday": true
           }
         }
@@ -63163,5 +63575,5 @@
       "active_loadout_index": 0
     }
   },
-  "commandRevision": 0
+  "commandRevision": 10
 }

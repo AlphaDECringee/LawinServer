@@ -3,20 +3,6 @@
   "_activeDate": "2017-08-30T03:20:48.050Z",
   "lastModified": "2019-11-01T17:33:35.346Z",
   "_locale": "en-US",
-  "loginmessage": {
-    "_title": "LoginMessage",
-    "loginmessage": {
-      "_type": "CommonUI Simple Message",
-      "message": {
-        "_type": "CommonUI Simple Message Base",
-        "title": "LawinServer",
-        "body": "Join our discord: https://discord.gg/KJ8UaHZ\nYouTube: Lawin\nTwitter: @lawin_010"
-      }
-    },
-    "_activeDate": "2017-07-19T13:14:04.490Z",
-    "lastModified": "2018-03-15T07:10:22.222Z",
-    "_locale": "en-US"
-  },
   "survivalmessage": {
     "_title": "survivalmessage",
     "overrideablemessage": {
@@ -209,21 +195,21 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/discord.png",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "DISCORD!",
-          "title": "Join our discord server!",
-          "body": "https://discord.gg/KJ8UaHZ",
-          "spotlight": false
-        },
-        {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://drive.google.com/uc?id=1uG_pBYUcdTRWKnYV3N-6H0Gu2jO3Y9wE",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "LawinServer",
-          "body": "Enjoy LawinServer!",
+          "title": "Butterfly Launcher",
+          "body": "Enjoy the Butterfly Launcher!",
+          "spotlight": false
+        },
+        {
+          "image": "https://drive.google.com/uc?id=1uG_pBYUcdTRWKnYV3N-6H0Gu2jO3Y9wE",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "ENJOY!",
+          "title": "Butterfly Launcher",
+          "body": "Enjoy the Butterfly Launcher!",
           "spotlight": false
         }
       ]
@@ -1352,10 +1338,10 @@
       "tournaments": [
         {
           "title_color": "FFFFFF",
-          "loading_screen_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "loading_screen_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/butterfly.png",
           "background_text_color": "1B1B1B",
           "background_right_color": "DD091A",
-          "poster_back_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "poster_back_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/butterfly.png",
           "_type": "Tournament Display Info",
           "pin_earned_text": "lawin is the winner!",
           "tournament_display_id": "s11_switchcup",
@@ -1363,7 +1349,7 @@
           "schedule_info": "November 2nd & 3rd: 2pm - 5pm JST",
           "primary_color": "FFFFFF",
           "flavor_description": "cool",
-          "poster_front_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "poster_front_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/butterfly.png",
           "short_format_title": "Event Sessions",
           "title_line_2": "boomer",
           "title_line_1": "Solo",
@@ -1373,7 +1359,7 @@
           "long_format_title": "nice",
           "poster_fade_color": "DD091A",
           "secondary_color": "1B1B1B",
-          "playlist_tile_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "playlist_tile_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/butterfly.png",
           "base_color": "FFFFFF"
         }
       ],
@@ -1383,47 +1369,6 @@
     "_noIndex": false,
     "_activeDate": "2018-11-13T22:32:47.734Z",
     "lastModified": "2019-11-01T17:33:35.346Z",
-    "_locale": "en-US"
-  },
-  "emergencynotice": {
-    "news": {
-      "_type": "Battle Royale News",
-      "messages": [
-        {
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "title": "LawinServer",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nDiscord: https://discord.gg/KJ8UaHZ",
-          "spotlight": true
-        }
-      ]
-    },
-    "_title": "emergencynotice",
-    "_noIndex": false,
-    "alwaysShow": false,
-    "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2019-10-29T22:32:52.686Z",
-    "_locale": "en-US"
-  },
-  "emergencynoticev2": {
-    "jcr:isCheckedOut": true,
-    "_title": "emergencynoticev2",
-    "_noIndex": false,
-    "jcr:baseVersion": "a7ca237317f1e771e921e2-7f15-4485-b2e2-553b809fa363",
-    "emergencynotices": {
-      "_type": "Emergency Notices",
-      "emergencynotices": [
-        {
-          "gamemodes": [],
-          "hidden": false,
-          "_type": "CommonUI Emergency Notice Base",
-          "title": "LawinServer",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nDiscord: https://discord.gg/KJ8UaHZ"
-        }
-      ]
-    },
-    "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2021-12-01T15:55:56.012Z",
     "_locale": "en-US"
   },
   "koreancafe": {
@@ -6109,7 +6054,7 @@
     "_locale": "en-US"
   },
   "lobby": {
-    "backgroundimage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/seasonx.png",
+    "backgroundimage": "https://cdn.discordapp.com/attachments/927739901540188200/930883349831118878/Fortnite_fortnite-game_lobby_T_Lobby_SeasonX-2048x1024-24e02780ed533da8001016f4e6fb14dd15e2f860.png",
     "stage": "seasonx",
     "_title": "lobby",
     "_activeDate": "2019-05-31T21:24:39.892Z",
@@ -6122,26 +6067,26 @@
       "motds": [
         {
           "entryType": "Website",
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd.png",
+          "image": "https://drive.google.com/uc?id=11nlLevCVbVrwU1j45bhBYwthUXw3HeBC",
           "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "LawinServer",
+          "tabTitleOverride": "Butterfly Launcher",
           "_type": "CommonUI Simple Message MOTD",
           "title": {
-            "ar": "مرحبًا بك في LawinServer!",
-            "en": "Welcome to LawinServer!",
-            "de": "Willkommen bei LawinServer!",
-            "es": "¡Bienvenidos a LawinServer!",
-            "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
-            "it": "Benvenuto in LawinServer!",
-            "ja": "LawinServerへようこそ！",
-            "ko": "LawinServer에 오신 것을 환영합니다!",
-            "pl": "Witaj w LawinServerze!",
-            "pt-BR": "Bem-vindo ao LawinServer!",
-            "ru": "Добро пожаловать в LawinServer!",
-            "tr": "LavinServer'a Hoş Geldiniz!"
+            "ar": "استمتع بقاذفة الفراشة!",
+            "en": "Enjoy the Butterfly Launcher!",
+            "de": "Viel Spaß mit dem Butterfly Launcher!",
+            "es": "¡Disfruta del lanzador de mariposas!",
+            "es-419": "¡Disfruta del lanzador de mariposas!",
+            "fr": "Profitez du lanceur de papillons !",
+            "it": "Divertiti con il lanciatore di farfalle!",
+            "ja": "バタフライランチャーをお楽しみください！",
+            "ko": "나비 런처를 즐겨보세요!",
+            "pl": "Ciesz się wyrzutnią motyli!",
+            "pt-BR": "Aproveite o lançador de borboletas!",
+            "ru": "Наслаждайтесь запуском бабочки!",
+            "tr": "享受蝴蝶发射器！"
           },
           "body": {
             "ar": "استمتع بتجربة لعب استثنائية!",
@@ -6162,8 +6107,8 @@
           "videoLoop": false,
           "videoStreamingEnabled": false,
           "sortingPriority": 90,
-          "websiteButtonText": "Discord",
-          "websiteURL": "https://discord.gg/KJ8UaHZ",
+          "websiteButtonText": "GITHUB",
+          "websiteURL": "https://github.com/RealProHenis/ButterflyLauncher",
           "id": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
           "videoAutoplay": false,
           "videoFullscreen": false,
@@ -6172,21 +6117,30 @@
       ],
       "messages": [
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/discord.png",
+          "image": "https://drive.google.com/uc?id=172qLTWPkVI7KffKp8nr8Seg30PcMWhMO",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "DISCORD!",
-          "title": "Join our discord server!",
-          "body": "https://discord.gg/KJ8UaHZ",
+          "adspace": "YOUTUBE!",
+          "title": "Subscribe to ProHenis",
+          "body": "Check out all my content on YouTube!",
           "spotlight": false
         },
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://drive.google.com/uc?id=1ZDISj5UtlmrfT_BvSstnRkSTREu-JRTu",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "ENJOY!",
-          "title": "LawinServer",
-          "body": "Enjoy LawinServer!",
+          "adspace": "DISCORD!",
+          "title": "Join the ProHenis Discord!",
+          "body": "Join my Discord to play in community Fortnite games & compete in challenges!",
+          "spotlight": false
+        },
+        {
+          "image": "https://drive.google.com/uc?id=18E-ynbSW2MOeThpyRz3FKfb67ftHaWAW",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "SPECIAL THANKS!",
+          "title": "SHOUTOUT TO THESE LEGENDS!",
+          "body": "Lawin#9629\nMilxnor#3531\nDevoooo#5733\nblk#6964",
           "spotlight": false
         }
       ]
@@ -6198,70 +6152,6 @@
     "alwaysShow": false,
     "_activeDate": "2018-08-17T16:00:00.000Z",
     "lastModified": "2019-10-31T20:29:39.334Z",
-    "_locale": "en-US"
-  },
-  "battleroyalenewsv2": {
-    "news": {
-      "motds": [
-        {
-          "entryType": "Website",
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd.png",
-          "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
-          "videoMute": false,
-          "hidden": false,
-          "tabTitleOverride": "LawinServer",
-          "_type": "CommonUI Simple Message MOTD",
-          "title": {
-            "ar": "مرحبًا بك في LawinServer!",
-            "en": "Welcome to LawinServer!",
-            "de": "Willkommen bei LawinServer!",
-            "es": "¡Bienvenidos a LawinServer!",
-            "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
-            "it": "Benvenuto in LawinServer!",
-            "ja": "LawinServerへようこそ！",
-            "ko": "LawinServer에 오신 것을 환영합니다!",
-            "pl": "Witaj w LawinServerze!",
-            "pt-BR": "Bem-vindo ao LawinServer!",
-            "ru": "Добро пожаловать в LawinServer!",
-            "tr": "LavinServer'a Hoş Geldiniz!"
-          },
-          "body": {
-            "ar": "استمتع بتجربة لعب استثنائية!",
-            "en": "Have a phenomenal gaming experience!",
-            "de": "Wünsche allen ein wunderbares Spielerlebnis!",
-            "es": "¡Que disfrutes de tu experiencia de videojuegos!",
-            "es-419": "¡Ten una experiencia de juego espectacular!",
-            "fr": "Un bon jeu à toutes et à tous !",
-            "it": "Ti auguriamo un'esperienza di gioco fenomenale!",
-            "ja": "驚きの体験をしよう！",
-            "ko": "게임에서 환상적인 경험을 해보세요!",
-            "pl": "Życzymy fenomenalnej gry!",
-            "pt-BR": "Tenha uma experiência de jogo fenomenal!",
-            "ru": "Желаю невероятно приятной игры!",
-            "tr": "Muhteşem bir oyun deneyimi yaşamanı dileriz!"
-          },
-          "offerAction": "ShowOfferDetails",
-          "videoLoop": false,
-          "videoStreamingEnabled": false,
-          "sortingPriority": 90,
-          "websiteButtonText": "Discord",
-          "websiteURL": "https://discord.gg/KJ8UaHZ",
-          "id": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
-          "videoAutoplay": false,
-          "videoFullscreen": false,
-          "spotlight": false
-        }
-      ],
-      "_type": "Battle Royale News v2"
-    },
-    "jcr:isCheckedOut": true,
-    "_title": "battleroyalenewsv2",
-    "_noIndex": false,
-    "alwaysShow": false,
-    "jcr:baseVersion": "a7ca237317f1e7721def6e-9f96-4c43-b429-30c794953b04",
-    "_activeDate": "2020-01-21T14:00:00.000Z",
-    "lastModified": "2021-09-14T16:31:00.888Z",
     "_locale": "en-US"
   },
   "dynamicbackgrounds": {
@@ -6291,21 +6181,21 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/discord.png",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "DISCORD!",
-          "title": "Join our discord server!",
-          "body": "https://discord.gg/KJ8UaHZ",
-          "spotlight": false
-        },
-        {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://drive.google.com/uc?id=1uG_pBYUcdTRWKnYV3N-6H0Gu2jO3Y9wE",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "LawinServer",
-          "body": "Enjoy LawinServer!",
+          "title": "Butterfly Launcher",
+          "body": "Enjoy the Butterfly Launcher!",
+          "spotlight": false
+        },
+        {
+          "image": "https://drive.google.com/uc?id=1uG_pBYUcdTRWKnYV3N-6H0Gu2jO3Y9wE",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "ENJOY!",
+          "title": "Butterfly Launcher",
+          "body": "Enjoy the Butterfly Launcher!",
           "spotlight": false
         }
       ]
@@ -6318,6 +6208,36 @@
     "_activeDate": "2018-08-17T16:00:00.000Z",
     "lastModified": "2019-10-31T20:35:52.569Z",
     "_locale": "en-US"
+  },
+  "shopSections": {
+    "_title": "shop-sections",
+    "sectionList": {
+      "_type": "ShopSectionList",
+      "sections": [
+        {
+          "bSortOffersByOwnership": false,
+          "bShowIneligibleOffersIfGiftable": false,
+          "bEnableToastNotification": true,
+          "background": {
+            "stage": "default",
+            "_type": "DynamicBackground",
+            "key": "vault"
+          },
+          "_type": "ShopSection",
+          "landingPriority": 70,
+          "bHidden": false,
+          "sectionId": "Featured",
+          "bShowTimer": true,
+          "sectionDisplayName": "LawinServer Item Shop",
+          "bShowIneligibleOffers": true
+        }
+      ]
+    },
+    "_noIndex": false,
+    "_activeDate": "2022-12-01T23:45:00.000Z",
+    "lastModified": "2022-12-01T21:50:44.089Z",
+    "_locale": "en-US",
+    "_templateName": "FortniteGameShopSections"
   },
   "_suggestedPrefetch": []
 }

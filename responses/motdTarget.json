@@ -31,7 +31,7 @@
             "url": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd.png"
           }
         ],
-        "tabTitleOverride": "LawinServer",
+        "tabTitleOverride": "ButterflyLauncher",
         "tileImage": [
           {
             "width": 1024,
@@ -40,19 +40,19 @@
           }
         ],
         "title": {
-          "ar": "مرحبًا بك في LawinServer!",
-          "en": "Welcome to LawinServer!",
-          "de": "Willkommen bei LawinServer!",
-          "es": "¡Bienvenidos a LawinServer!",
-          "es-419": "¡Bienvenidos a LawinServer!",
-          "fr": "Bienvenue sur LawinServer !",
-          "it": "Benvenuto in LawinServer!",
-          "ja": "LawinServerへようこそ！",
-          "ko": "LawinServer에 오신 것을 환영합니다!",
-          "pl": "Witaj w LawinServerze!",
-          "pt-BR": "Bem-vindo ao LawinServer!",
-          "ru": "Добро пожаловать в LawinServer!",
-          "tr": "LavinServer'a Hoş Geldiniz!"
+          "ar": "مرحبًا بك فيButterflyLauncher!",
+          "en": "Welcome to ButterflyLauncher!",
+          "de": "Willkommen bei ButterflyLauncher!",
+          "es": "¡Bienvenidos a ButterflyLauncher!",
+          "es-419": "¡Bienvenidos a ButterflyLauncher!",
+          "fr": "Bienvenue sur ButterflyLauncher!",
+          "it": "Benvenuto in ButterflyLauncher!",
+          "ja": "ButterflyLauncherへようこそ！",
+          "ko": "ButterflyLauncher에 오신 것을 환영합니다!",
+          "pl": "Witaj w ButterflyLauncher!",
+          "pt-BR": "Bem-vindo ao ButterflyLauncher!",
+          "ru": "Добро пожаловать в ButterflyLauncher!",
+          "tr": "ButterflyLauncher'a Hoş Geldiniz!"
         },
         "videoAutoplay": false,
         "videoLoop": false,

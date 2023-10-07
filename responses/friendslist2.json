@@ -1,31 +1,22 @@
 {
   "friends": [
     {
-      "accountId": "Auties00",
+      "accountId": "ButterflyBot",
       "groups": [],
       "mutual": 0,
       "alias": "",
       "note": "",
       "favorite": false,
-      "created": "2022-10-11T18:03:09.727Z"
+      "created": "2023-10-07T14:36:35.291Z"
     },
     {
-      "accountId": "abc",
+      "accountId": "pisser",
       "groups": [],
       "mutual": 0,
       "alias": "",
       "note": "",
       "favorite": false,
-      "created": "2022-10-16T10:43:27.202Z"
-    },
-    {
-      "accountId": "FortniteStudio",
-      "groups": [],
-      "mutual": 0,
-      "alias": "",
-      "note": "",
-      "favorite": false,
-      "created": "2023-02-01T13:23:11.462Z"
+      "created": "2023-10-07T14:36:47.737Z"
     }
   ],
   "incoming": [],
